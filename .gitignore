@@ -1,0 +1,7 @@
+assetEnv
+oldAssetEnv
+ibm
+__pycache__*
+.env
+*/__pycache__
+.DS_Store
